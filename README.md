@@ -11,5 +11,5 @@ Time: 16-Apr-2019 19:00 - 22:00 (3hrs)
 3. 4.24: initial result
 4. 4.27: report writting & presentation prepartion
 
-# trump-tweet-analysis package
-https://github.com/nprapps/trump-tweet-analysis
+# trump tweets source
+http://www.trumptwitterarchive.com/archive
