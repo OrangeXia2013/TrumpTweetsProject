@@ -56,4 +56,4 @@ http://www.trumptwitterarchive.com/archive
 3. 401-600: Lance
 4. 601-800: SL
 5. 801-891: ZLC
- 
+> positive negative judgement 仅供参考，可能还有新的类型，具体问题具体分析，有疑问可以另行标注后续讨论
