@@ -15,7 +15,7 @@ Time: 20-Apr-2019 15:00 - 16:00 (1hrs)
 
 # trump tweets source
 http://www.trumptwitterarchive.com/archive
-
+***
 # 4.17 进度汇报及安排
 ## 讨论内容
 1. 确定只做 individual stock impact
