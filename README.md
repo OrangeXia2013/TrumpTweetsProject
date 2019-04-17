@@ -58,3 +58,25 @@ http://www.trumptwitterarchive.com/archive
 4. 601-800: SL
 5. 801-891: ZLC
 > positive negative judgement 仅供参考，可能还有新的类型，具体问题具体分析，有疑问可以另行标注后续讨论
+***
+# paper 框架
+
+1. Introduction
+2. Literature Review
+3. Data
+    1. Data Source
+    1. Data processing
+    1. Classfication
+4. Methodology
+    1. Event Study
+    2. Benchmark
+5. Results:
+	1. Benchmark parameter
+	2. AAR 以及 CAAR
+	3. 可能要除去 earning announcement day 影响再讨论？
+6. Discussion
+	Bias
+	limitation
+7. Conclusion
+
+
