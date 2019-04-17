@@ -48,7 +48,8 @@ http://www.trumptwitterarchive.com/archive
     2. 在第**4**列(**E**列)输入数字：1 or -1
         1. 1: postive event type
         2. -1: negative event type
-    3. 无关的事件不做标记
+    3. 在**5**列(**F**列）输入 event tweet 梗概
+    4. 无关的事件不做标记
 3. 整理名单
 以 excel 的 row index 为序号（**不是 A 列**）
 1. 1-200：ZPH
