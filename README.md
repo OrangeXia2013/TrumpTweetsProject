@@ -3,7 +3,7 @@ Econometric Trump Tweet
 
 # Next meeting
 Venue: LKSLIB Project Room 4-2
-Time: 16-Apr-2019 19:00 - 22:00 (3hrs)
+Time: 20-Apr-2019 15:00 - 16:00 (1hrs)
 
 # Timeline
 1. 4.16: Data collecting
