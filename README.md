@@ -17,20 +17,14 @@ Time: 20-Apr-2019 15:00 - 16:00 (1hrs)
 http://www.trumptwitterarchive.com/archive
 ***
 # result & interpretation
-## full-sample result
+## full-sample result & sub-sample result
 ### AAR
 1. positive
 2. negative 
 ### CAAR
 1. positive
 2. negative 
-## sub-sample result
-### AAR
-1. positive
-2. negative 
-### CAAR
-1. positive
-2. negative 
+
 ## interpretation
 1. Trump`s tweets` effect on companyies is more likely a Belated effort (does not change companyies)
     1. postive & negative comparsion
